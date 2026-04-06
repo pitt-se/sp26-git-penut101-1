@@ -14,7 +14,6 @@ public class CommitCafe {
             System.out.println("Strong Coffee!");
         }
 
-        // Keep their debug improvement (cleaned)
         System.out.println("[INFO] drink length = " + drink.length());
     }
 
